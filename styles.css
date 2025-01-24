@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:lightblue;
+}
+
+#img1{
+	width:200px;
+}
+
+.img2{
+	width:200px;
+}
+
+.mid{
+	width:600px;
+}
+
